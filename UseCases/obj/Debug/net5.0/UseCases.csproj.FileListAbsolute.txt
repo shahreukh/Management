@@ -1,0 +1,45 @@
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.pdb
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\MALWARE\Desktop\market - Copy\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\MALWARE\Desktop\market\Management\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\market\Management\UseCases\obj\Debug\net5.0\UseCases.pdb
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Users\MALWARE\Desktop\Project\market\Management\UseCases\obj\Debug\net5.0\UseCases.pdb
